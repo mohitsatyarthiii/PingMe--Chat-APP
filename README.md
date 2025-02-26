@@ -32,22 +32,13 @@ Real-Time Communication: Socket.io
 
 Authentication: JWT (JSON Web Token)
 
-📂 Project Structure
-
-PingMe/
-├── frontend/   # Frontend (React.js, Tailwind CSS)
-├── backend/   # Backend (Node.js, Express, MongoDB, Socket.io)
-├── .env      # Environment variables
-├── package.json
-├── README.md
-└── ...
 
 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/mohitsatyarthiii/PingMe--chat-APP.git
-cd PingMe
+     git clone https://github.com/mohitsatyarthiii/PingMe--chat-APP.git
+     cd PingMe
 
 2️⃣ Install Dependencies
 
